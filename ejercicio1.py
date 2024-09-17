@@ -7,7 +7,7 @@ def numeros():
     pares = [2,4,6,8,10]
     for i in pares: #i=2
         print(i)
-
+    print("Hola")
 #numeros()
 
 def nombres():
